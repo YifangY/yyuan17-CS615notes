@@ -8,5 +8,7 @@ Not familiar with IPv6, its new feature besides more address space
 Will IPv4 exhaust someday?(I heard 10 years ago)
 
 Post-
-
+1 Learn the basic knowledge of IPv6, CIDR
+2 WHOIS
+3 For IPv4 exhaustion, reading
 https://en.wikipedia.org/wiki/IPv4_address_exhaustion

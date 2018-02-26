@@ -1,0 +1,12 @@
+Pre-
+READ:
+https://en.wikipedia.org/wiki/IPv6
+
+
+Question:
+Not familiar with IPv6, its new feature besides more address space
+Will IPv4 exhaust someday?(I heard 10 years ago)
+
+Post-
+
+https://en.wikipedia.org/wiki/IPv4_address_exhaustion

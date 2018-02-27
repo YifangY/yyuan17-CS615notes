@@ -3,6 +3,7 @@ Post-
 2 Command: 
 kdump > $command, 
 ktrace  -i telnet google.com 80
+ndp //ipv6 neighbor
 
 3 configuration file
 /etc/nsswitch.confexit

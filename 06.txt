@@ -1,0 +1,8 @@
+Post-
+1 check the DNS configuration at cat /etc/resolv.conf
+2 Command: 
+kdump > $command, 
+ktrace  -i telnet google.com 80
+
+3 configuration file
+/etc/nsswitch.confexit

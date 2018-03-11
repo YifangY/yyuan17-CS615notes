@@ -1,1 +1,17 @@
-test
+Pre-
+Reading:
+https://en.wikipedia.org/wiki/HTTPS
+
+Question:
+1 How many root dns servers in the world?
+2 How does the root server avoid to be hacked?
+3 How does https improve the security?
+4 How does dns record more than one ip address for one domain ame?
+5 Is there any other functions of http besides showing website
+
+Post-
+Learn
+1 There are 13 root servers(and many backup)
+2 Http server status code 1XX,2XX,3XX,4XX“
+3 Get the http by command
+4 The domain could be transfer to other format: www.yahoo.com -> static1.yahoo.com

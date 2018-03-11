@@ -1,0 +1,12 @@
+Pre-
+Reading
+https://wiki.archlinux.org/index.php/Users_and_groups
+1 How to manage user and group in Unix-like system?
+2 What are the default users and groups? What is the function/privilege of them？
+
+Post-
+1 /etc/group content
+2 User authentication
+
+Reading
+https://www.netmeister.org/book/06-users-and-groups.pdf

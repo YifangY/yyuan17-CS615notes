@@ -1,0 +1,14 @@
+Pre-
+Reading
+https://en.wikipedia.org/wiki/Master_boot_record
+Question
+1 What is the differences and features of Unix file system?
+
+
+Post
+1 Command for checking i-node usage and other status
+2 Command for AWS and some alias
+3 i-node function
+4 NAS & SAN 
+Reading
+https://en.wikipedia.org/wiki/Inode

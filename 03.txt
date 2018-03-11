@@ -1,0 +1,13 @@
+Pre--:
+Reading：
+http://www.dba-oracle.com/linux/important_files_directories.htm
+
+1 How to install/uninstall the software in Unix-like
+2 Is the software "green" for system(no impact to the environment)
+
+Post
+1 Binary & Source Install
+2 dpkg,rpm and yum command
+
+Reading
+man page of dpkg,rpm

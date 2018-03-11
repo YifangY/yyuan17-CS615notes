@@ -1,0 +1,19 @@
+Pre-
+Reading:
+Chinese website about linux command
+http://linux.vbird.org/
+
+Question
+1 Difference between linux and unix
+2 Why does the Unix work stably and safely?
+
+Post-
+Learn
+1 History of Unix
+2 Some of system administrator work
+3 Three Pillars of Exceptional System Design: Scalability, Security and Simplicity
+4 Pipelines in shell
+5 Linux is Unix-like system
+
+Reading:
+http://linux.vbird.org/

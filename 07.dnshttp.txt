@@ -15,3 +15,6 @@ Learn
 2 Http server status code 1XX,2XX,3XX,4XX“
 3 Get the http by command
 4 The domain could be transfer to other format: www.yahoo.com -> static1.yahoo.com
+
+Reading
+https://www.ntchosting.com/encyclopedia/dns/reverse-dns/

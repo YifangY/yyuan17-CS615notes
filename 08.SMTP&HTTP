@@ -1,0 +1,20 @@
+Pre--
+Reading(two chinese website about RSA and Diffie-Hellman)
+http://www.ruanyifeng.com/blog/2013/07/rsa_algorithm_part_two.html
+http://joakimliu.github.io/2017/08/17/%E6%B5%85%E8%B0%88-Diffie-Hellman-%E5%AF%86%E9%92%A5%E4%BA%A4%E6%8D%A2/
+1 How could we prevent the SPAM?
+2 How does https improve the security?
+
+
+Post
+1 Email can be sent by command line.
+2 Email mandatory headers are From and Delivered-To. "From" can be set to anything so easily
+3 Sender policy and DKIM to prevent the spam(>70% emails are spam)
+4 TLS is not at OSI layer 7, about 6. It is for encryption data in transit and authentication of parties
+5 CA，public key, private key in identification verification. And its pitfalls(CA, redirect to fake website by DNS)
+
+Reading:
+About DKIM
+https://web.archive.org/web/20120316064417/http://ycorpblog.com/2007/05/22/one-small-step-for-email-one-giant-leap-for-internet-safety/
+
+https://www.imperialviolet.org/2018/03/10/tls13.html

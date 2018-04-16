@@ -1,0 +1,18 @@
+Pre:
+Reading
+https://en.wikipedia.org/wiki/Incremental_backup
+https://en.wikipedia.org/wiki/Differential_backup
+
+1. How to choose differential or incremental backup?
+2. Common monitor tools for Unix-like?
+
+Post:
+1 Use curl diagnose website abnormal.
+2 dump and dd to backup system. gpg to encrypt
+3 Tools to monitor system: time, strace, vmstat, iostat, ac,lsof,sa.
+4 log analyze tool awk
+Reading
+https://www.nagios.com/solutions/ubuntu-monitoring/
+https://www.linuxtechi.com/open-source-server-network-monitoring-tools-for-linux/
+
+

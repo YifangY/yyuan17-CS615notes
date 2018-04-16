@@ -1,0 +1,13 @@
+Pre
+Reading
+https://en.wikipedia.org/wiki/Configuration_management
+What does CM work for?(It is new idea for me)
+
+Post
+1 rsync to transfer file
+2 CM operations must be idempotent
+3 CM are subject to the CAP(Consistency,availability and partition tolerance)
+
+Reading
+http://techgenix.com/best-configuration-management-tools/
+https://www.coursera.org/learn/it-automation/lecture/6ohv2/what-is-configuration-management

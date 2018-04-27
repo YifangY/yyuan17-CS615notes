@@ -1,5 +1,14 @@
 Pre
-
+Reading
+https://en.wikipedia.org/wiki/Attack_%28computing%29#Types_of_attacks
+1 How analyze the system security?
+2 Any idea to make system vulnerable?
 
 
 Post
+1 Risk assessment includes identify assets,threats,determine vulnerabilities, estimate cost of recovery and defense
+2 Threat Model
+3 Basic Security Concepts:Confidentiality,Integrity,Hashing Passwords,Authenticity
+
+Reading
+1 https://en.wikipedia.org/wiki/IT_risk
